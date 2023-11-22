@@ -1,0 +1,14 @@
+asgiref==3.7.2
+Django==3.2
+djangorestframework==3.14.0
+drf-yasg==1.21.7
+inflection==0.5.1
+mysql-connector-python==8.1.0
+mysqlclient==2.2.0
+packaging==23.2
+protobuf==4.21.12
+pytz==2023.3.post1
+PyYAML==6.0.1
+sqlparse==0.4.4
+typing_extensions==4.8.0
+uritemplate==4.1.1
